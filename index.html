@@ -17,7 +17,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
+    <!-- {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -44,12 +44,13 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     </div>
     </div>
     </div>
-    </div>
+    </div> -->
     
     <div class="col-md-6">
         
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        
+        <!-- {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -73,10 +74,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         {{ second_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
-            </div>
+            </div> -->
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        <!-- {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -101,10 +102,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                     </small>
                 </div>
             </div>
-        
+         -->
         <!-- fourth latest post -->
         {%- assign fourth_post = site.posts[3] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        <!-- <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -127,7 +128,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
                         {{ fourth_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
-            </div>
+            </div> -->
         
     </div>
     
@@ -137,6 +138,22 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <h1 class="mb-3">{{post.title}}</h1>
+                <p class="mb-3 lead">
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                </p>
+                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
+            </div>
+        </div>
+    </div>
+</div> 
+
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightgreen position-relative">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
