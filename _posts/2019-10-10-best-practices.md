@@ -14,7 +14,7 @@ Here's a couple of best practices:
 1. Never use the same password twice
 2. Never use a public wifi network (in a coffeeshop or at the airport) without a Virtual Private Network (VPN)
 3. If you see something, say something. You are making the internet safer for everyone when you report bad actors.
-   - Report it to our website - we should track this data
+   <!-- - Report it to our website - we should track this data -->
    - [https://www.consumer.ftc.gov/media/video-0143-why-report-fraud](https://www.consumer.ftc.gov/media/video-0143-why-report-fraud)
    - [https://www.ftccomplaintassistant.gov/#crnt&panel1-1](https://www.ftccomplaintassistant.gov/#crnt&panel1-1)
 4. Never give your personal email to marketing sites or unfamiliar websites
