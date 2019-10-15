@@ -15,8 +15,8 @@ Here's a couple of best practices:
 2. Never use a public wifi network (in a coffeeshop or at the airport) without a Virtual Private Network (VPN)
 3. If you see something, say something. You are making the internet safer for everyone when you report bad actors.
    <!-- - Report it to our website - we should track this data -->
-   - [https://www.consumer.ftc.gov/media/video-0143-why-report-fraud](https://www.consumer.ftc.gov/media/video-0143-why-report-fraud)
-   - [https://www.ftccomplaintassistant.gov/#crnt&panel1-1](https://www.ftccomplaintassistant.gov/#crnt&panel1-1)
+   - [Why you should report fraud](https://www.consumer.ftc.gov/media/video-0143-why-report-fraud)
+   - [How to report fraud](https://www.ftccomplaintassistant.gov/#crnt&panel1-1)
 4. Never give your personal email to marketing sites or unfamiliar websites
    - Get a junk email for kitty pictures and other things
 5. If you don't know the person who sent you an email, never click on any links.
