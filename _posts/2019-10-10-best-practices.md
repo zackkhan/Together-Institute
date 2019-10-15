@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 best practices for internet safety"
-author: jane
+author: zack
 categories: [Internet Safety]
 image: assets/images/tools.jpeg
 tags: [sticky]

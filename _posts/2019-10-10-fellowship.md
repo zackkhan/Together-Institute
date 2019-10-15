@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing the Together Institute Fellowship"
-author: jane
+author: zack
 categories: [Internet Safety]
 image: assets/images/confetti.jpeg
 tags: [sticky]
