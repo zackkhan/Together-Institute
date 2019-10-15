@@ -4,9 +4,9 @@ description: "Together Institute is an organization focused on helping older adu
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
-disqus: "demowebsite"
+disqus: "together-institute"
 email: "wowthemesnet@gmail.com"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+mailchimp-list: "http://eepurl.com/gGvWzn"
 
 include: ["_pages"]
 permalink: /:title/
