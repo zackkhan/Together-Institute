@@ -11,7 +11,7 @@ To protect yourself online is the same as protecting your car (thanks Michael Wo
 
 Here's a couple of best practices:
 
-1. Never use the same password twice [(here's a list of tools to help with this)](http://me.com)
+1. Never use the same password twice
 2. Never use a public wifi network (in a coffeeshop or at the airport) without a Virtual Private Network (VPN)
 3. If you see something, say something. You are making the internet safer for everyone when you report bad actors.
    - Report it to our website - we should track this data
@@ -21,4 +21,4 @@ Here's a couple of best practices:
    - Get a junk email for kitty pictures and other things
 5. If you don't know the person who sent you an email, never click on any links.
 6. If you are unsure about the credibility of something, ask someone!
-   - Try our Tech Safety hotline 888-920-3333 or ask a family member or friend
+   - Try our Tech Safety hotline 650-246-9159 or ask a family member or friend
