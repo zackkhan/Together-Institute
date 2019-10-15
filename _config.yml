@@ -21,19 +21,13 @@ plugins:
 authors:
   Kevin:
     name: Kevin
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar1.jpg
-    bio: "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    email: wowthemesnet@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    avatar: assets/images/avatar1.jpg
+    bio: "Hi, I'm Kevin. I've spent my career working in technology and am dedicated to solving problems for older adults. I'm a mentor at the YMCA Reach and Rise Program, volunteer at the Institute for Aging, and hold an economics degree from University of California, San Diego."
 
   Zack:
     name: Zack
-    site: https://www.wowthemes.net
-    avatar: /assets/images/avatar2.jpg
-    bio: "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-    email: fakemail@gmail.com
-    twitter: https://twitter.com/wowthemesnet
+    avatar: assets/images/avatar2.jpg
+    bio: "Hi, I'm Zack! I've worked with seniors for the past 9 years as an activities assistant at a nursing home, community organizer of intergenerational events for non-profits to most recently working at Umbrella: a service that connects seniors with local handy people in their communities."
 
 # Defaults
 defaults:
@@ -42,7 +36,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: kevin
       avatar: /assets/images/avatar1.jpg
 
   # all pages
