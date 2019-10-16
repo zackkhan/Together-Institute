@@ -20,7 +20,8 @@ Because of this, we are announcing our first program solving this: "The Together
 
 **As a Together Institute Fellow you'll:**
 
-- Get your friends set up with industry-leading security tools
+- Be onboarded with industry-leading security tools so that you are protected online
+- Get your friends protected and set up with industry-leading security tools
 - Send us proof (a photo or email confirmation from them)
 - Get \$5 in a gift card of your choice for each friend you refer
 
